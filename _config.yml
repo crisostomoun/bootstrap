@@ -1,7 +1,7 @@
 auto: true
 server: true
 permalink: none
-baseurl: "crisostomoun"
+baseurl: "crisostomoun.github.com"
 exclude:
 - .gitignore
 - README.md
